@@ -1,0 +1,244 @@
+[
+    {
+        "id": 1,
+        "name": "Barberton Daisy",
+        "price": 119.00,
+        "category": [
+            1,
+            2,
+            3,
+            10
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/daisy.png"
+    },
+    {
+        "id": 2,
+        "name": "Angel Wing Begonia",
+        "price": 169.00,
+        "category": [
+            1,
+            5,
+            9,
+            11
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/begonia.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "African Violet",
+        "price": 129.00,
+        "category": [
+            7,
+            8,
+            12
+        ],
+        "sale": true,
+        "sale_price": 199.00,
+        "image": "/images/violet.png"
+    },
+    {
+        "id": 4,
+        "name": "Beach Spider Lily",
+        "price": 129.00,
+        "category": [
+            2,
+            6,
+            10
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/lily.png"
+    },
+    {
+        "id": 5,
+        "name": "Brushing Bormeliad",
+        "price": 139.00,
+        "category": [
+            1,
+            4,
+            7,
+            11
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/bormeliad.png"
+    },
+    {
+        "id": 6,
+        "name": "Aluminum Plant",
+        "price": 179.00,
+        "category": [
+            3,
+            5,
+            12
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/plant.png"
+    },
+    {
+        "id": 7,
+        "name": "Bird's Nest Fern",
+        "price": 99.00,
+        "category": [
+            3,
+            9,
+            10
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/fern.png"
+    },
+    {
+        "id": 8,
+        "name": "Broadleaf Lady Palm",
+        "price": 59.00,
+        "category": [
+            5,
+            6,
+            9,
+            11
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/palm.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Chinese Evergreen",
+        "price": 39.00,
+        "category": [
+            4,
+            8,
+            12
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/evergreen.png"
+    },
+    {
+        "id": 10,
+        "name": "Barberton Daisy",
+        "price": 119.00,
+        "category": [
+            1,
+            2,
+            3,
+            10
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/daisy.png"
+    },
+    {
+        "id": 11,
+        "name": "Angel Wing Begonia",
+        "price": 169.00,
+        "category": [
+            1,
+            5,
+            9,
+            11
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/begonia.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "African Violet",
+        "price": 129.00,
+        "category": [
+            7,
+            8,
+            12
+        ],
+        "sale": true,
+        "sale_price": 199.00,
+        "image": "/images/violet.png"
+    },
+    {
+        "id": 13,
+        "name": "Beach Spider Lily",
+        "price": 129.00,
+        "category": [
+            2,
+            6,
+            10
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/lily.png"
+    },
+    {
+        "id": 14,
+        "name": "Brushing Bormeliad",
+        "price": 139.00,
+        "category": [
+            1,
+            4,
+            7,
+            11
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/bormeliad.png"
+    },
+    {
+        "id": 15,
+        "name": "Aluminum Plant",
+        "price": 179.00,
+        "category": [
+            3,
+            5,
+            12
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/plant.png"
+    },
+    {
+        "id": 16,
+        "name": "Bird's Nest Fern",
+        "price": 99.00,
+        "category": [
+            3,
+            9,
+            10
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/fern.png"
+    },
+    {
+        "id": 17,
+        "name": "Broadleaf Lady Palm",
+        "price": 59.00,
+        "category": [
+            5,
+            6,
+            9,
+            11
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/palm.jpeg"
+    },
+    {
+        "id": 18,
+        "name": "Chinese Evergreen",
+        "price": 39.00,
+        "category": [
+            4,
+            8,
+            12
+        ],
+        "sale": false,
+        "sale_price": 0,
+        "image": "/images/evergreen.png"
+    }
+]
